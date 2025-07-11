@@ -31,7 +31,7 @@ It's a hands-on project to reinforce core front-end skills.
 
 ---
 
-## Future Improvements (Optional)
+## Future Improvements 
 
 - Task editing feature  
 - Persistent storage with localStorage or a backend  
